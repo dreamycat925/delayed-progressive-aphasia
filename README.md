@@ -25,7 +25,7 @@ If you use this code or model in your research, please cite our paper:
 Delayed progressive apraxia of speech: A novel clinical entity distinct from primary progressive aphasia – A descriptive case series
 Shun Akaike, Shigehisa Ura, Akihiko Ogata, Toshio Fukutake, Ichiro Yabe, Mika Otsuki
 Journal of the Neurological Sciences, 2025
-https://www.jns-journal.com/article/S0022-510X(25)00219-9/abstract
+[Link to paper](https://www.jns-journal.com/article/S0022-510X(25)00219-9/abstract)
 ```
 
 ## Note
